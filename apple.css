@@ -1,0 +1,242 @@
+.dropdown-menu {
+    background-color: #f5f5f7;
+    /* Replace with your desired color */
+    border: none;
+    /* Optional: Removes border if not needed */
+    /* Optional: Adds shadow for a better look */
+}
+.box{
+    height:200px;
+    width: 100px;
+}
+.food-munch-logo {
+    width: 70px;
+    height: 40px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.top-container {
+    padding: 5px;
+    min-height: rem;
+    /* Ensure content fits while maintaining a minimum height */
+    height: auto;
+    /* Adjust dynamically for taller content */
+    background-size: cover;
+}
+
+.top-conatiner-text {
+    font-size: 14px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    letter-spacing: -0.224px;
+    line-height: 20.0003px;
+    color: #1d1d1f;
+    padding: 16px 16px;
+}
+
+.main-container {
+    background-color: #f5f5f7;
+}
+
+.middle-conatiner-text1 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 52.0077px;
+    text-align: start;
+    letter-spacing: -0.144px;
+    color: #1d1d1f;
+    width: 400px;
+}
+
+.middle-conatiner-text2 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 52.0077px;
+    text-align: start;
+    letter-spacing: -0.144px;
+    color: #6e6e73;
+}
+
+.middle-container-right-text {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: -0.144px;
+    color: #6e6e73;
+}
+
+.image-container {
+    margin: 5rem 10px 10px 100px;
+    display: flex;
+    /* Enables horizontal layout */
+    overflow-x: auto;
+    /* Enables horizontal scrolling */
+    gap: 30px;
+    /* Adds spacing between cards */
+    white-space: nowrap;
+    /* Prevents cards from wrapping to the next line */
+}
+
+.img-text {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.224px;
+    line-height: 20.0003px;
+    color: #1d1d1f;
+    padding: 16px 16px;
+}
+
+.cards-group {
+    margin-left: 5rem;
+}
+
+.cards-container-heading-text1 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: -0.374px;
+    text-align: start;
+    letter-spacing: -0.144px;
+    color: #1d1d1f;
+}
+
+.cards-container-heading-text2 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: -0.374px;
+    text-align: start;
+    letter-spacing: -0.144px;
+    color: #6e6e73;
+}
+
+.cards-container {
+    display: flex;
+    /* Enables horizontal layout */
+    overflow-x: auto;
+    /* Enables horizontal scrolling */
+    gap: 40px;
+    /* Adds spacing between cards */
+    white-space: nowrap;
+    /* Prevents cards from wrapping to the next line */
+}
+
+.cards {
+    min-width: 500px;
+    /* Set a fixed width for each card */
+    height: 450px;
+    /* Set height for each card */
+    background-color:#e9e8ec;
+    color: white;
+    display: flex;
+    align-items: start;
+    padding-left: 2rem;
+    justify-content: center;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow:rgba(0, 0, 0, 0.08) 2px 4px 12px 0px;
+    border-radius:18px;
+
+}
+.cards2 {
+    min-width: 300px;
+    /* Set a fixed width for each card */
+    height: 450px;
+    /* Set height for each card */
+    background-color: white;
+    color: #ffffff;
+    display: flex;
+    align-items: start;
+    padding-left: 2rem;
+    justify-content: center;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow:rgba(0, 0, 0, 0.08) 2px 4px 12px 0px;
+    border-radius:18px;
+
+}
+.cards3 {
+    min-width: 500px;
+    /* Set a fixed width for each card */
+    height: 500px;
+    /* Set height for each card */
+    background-color: white;
+    color: white;
+    display: flex;
+    align-items: start;
+    padding-left: 2rem;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow:rgba(0, 0, 0, 0.08) 2px 4px 12px 0px;
+    border-radius:18px;
+
+}
+.cards-top-container{
+    height:200px;
+    padding-top: 20px;
+}
+.cards-container-heading1 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 16.0005px;
+    text-align: start;
+    letter-spacing: -0.12px;
+    color: #b64400;
+    margin-top: 0%;
+}
+
+.cards-container-heading2 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: 32px;
+    text-align: start;
+    letter-spacing: 0.196px;
+    color: #1d1d1f;
+}
+
+.cards-container-heading3 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 21.0012px;
+    text-align: start;
+    letter-spacing: -0.374px;
+    color: #1d1d1f;
+}
+
+.footer-text {
+    font-size: 14px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    letter-spacing: -0.224px;
+    line-height: 20.0003px;
+    color: #000000;
+    opacity: 35.06%;
+    padding: 16px 16px;
+}
+
+.custom-button {
+    border-radius: 2px;
+    border-color: #6e6e73;
+    background-color: #f5f5f7;
+    border-radius: 980px;
+    width:130px;
+    height: 40px;
+    box-shadow: none;
+}
